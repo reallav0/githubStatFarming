@@ -14,4 +14,6 @@ It’s mainly for keeping a repo active, automating commits, or — well — far
  - Clone/Download the repo
  - Install npm dependencies
  - Replace the github token in .env file
- - Run
+ - Create new repo (public/private)
+ - Change the REPO name in index.js
+ - Run and it may work
